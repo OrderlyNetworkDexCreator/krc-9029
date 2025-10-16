@@ -3,87 +3,87 @@
   --oui-font-size-base: 16px;
 
   /* colors */
-  --oui-color-primary: 86 76 153;
-  --oui-color-primary-light: 132 122 204;
-  --oui-color-primary-darken: 64 56 122;
+  --oui-color-primary: 75 0 130;
+  --oui-color-primary-light: 132 66 204;
+  --oui-color-primary-darken: 56 0 104;
   --oui-color-primary-contrast: 255 255 255;
 
-  --oui-color-link: 107 91 173;
-  --oui-color-link-light: 152 133 217;
+  --oui-color-link: 107 66 173;
+  --oui-color-link-light: 152 122 217;
 
   --oui-color-secondary: 255 255 255;
   --oui-color-tertiary: 218 218 218;
   --oui-color-quaternary: 218 218 218;
 
-  --oui-color-danger: 234 84 141;
-  --oui-color-danger-light: 250 143 173;
-  --oui-color-danger-darken: 217 67 121;
+  --oui-color-danger: 245 45 85;
+  --oui-color-danger-light: 250 108 143;
+  --oui-color-danger-darken: 217 34 68;
   --oui-color-danger-contrast: 255 255 255;
 
-  --oui-color-success: 43 214 166;
-  --oui-color-success-light: 101 233 194;
-  --oui-color-success-darken: 0 173 135;
+  --oui-color-success: 41 233 169;
+  --oui-color-success-light: 101 245 194;
+  --oui-color-success-darken: 0 204 135;
   --oui-color-success-contrast: 255 255 255;
 
-  --oui-color-warning: 255 204 70;
+  --oui-color-warning: 255 209 70;
   --oui-color-warning-light: 255 221 133;
   --oui-color-warning-darken: 255 163 0;
   --oui-color-warning-contrast: 255 255 255;
 
-  --oui-color-fill: 33 29 47;
-  --oui-color-fill-active: 37 43 58;
+  --oui-color-fill: 33 15 47;
+  --oui-color-fill-active: 37 29 58;
 
-  --oui-color-base-1: 78 68 118;
-  --oui-color-base-2: 66 57 102;
-  --oui-color-base-3: 54 47 84;
-  --oui-color-base-4: 45 40 71;
-  --oui-color-base-5: 39 34 63;
-  --oui-color-base-6: 32 28 56;
-  --oui-color-base-7: 63 56 96; 
-  --oui-color-base-8: 26 23 44;
-  --oui-color-base-9: 20 18 35;
+  --oui-color-base-1: 93 83 123;
+  --oui-color-base-2: 83 73 113;
+  --oui-color-base-3: 73 63 103;
+  --oui-color-base-4: 63 56 93;
+  --oui-color-base-5: 56 49 83;
+  --oui-color-base-6: 49 42 73;
+  --oui-color-base-7: 51 46 66;
+  --oui-color-base-8: 39 34 63;
+  --oui-color-base-9: 28 24 53;
   --oui-color-base-10: 14 13 18;
 
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 255 255 255;
 
-  --oui-color-trading-loss: 234 84 141;
+  --oui-color-trading-loss: 245 45 85;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 43 214 166;
+  --oui-color-trading-profit: 41 233 169;
   --oui-color-trading-profit-contrast: 255 255 255;
 
   /* gradients */
-  --oui-gradient-primary-start: 74 64 134;
-  --oui-gradient-primary-end: 107 91 173;
+  --oui-gradient-primary-start: 64 0 114;
+  --oui-gradient-primary-end: 107 66 173;
 
   --oui-gradient-secondary-start: 66 57 102;
   --oui-gradient-secondary-end: 86 76 153;
 
-  --oui-gradient-success-start: 1 83 68;
-  --oui-gradient-success-end: 43 214 166;
+  --oui-gradient-success-start: 1 173 68;
+  --oui-gradient-success-end: 41 233 169;
 
-  --oui-gradient-danger-start: 153 24 76;
-  --oui-gradient-danger-end: 234 84 141;
+  --oui-gradient-danger-start: 200 24 76;
+  --oui-gradient-danger-end: 245 45 85;
 
-  --oui-gradient-brand-start: 190 173 230;
-  --oui-gradient-brand-end: 132 122 204;
+  --oui-gradient-brand-start: 220 173 255;
+  --oui-gradient-brand-end: 132 66 204;
   --oui-gradient-brand-stop-start: 6.62%;
   --oui-gradient-brand-stop-end: 86.5%;
   --oui-gradient-brand-angle: 17.44deg;
 
-  --oui-gradient-warning-start: 152 58 8;
-  --oui-gradient-warning-end: 255 204 70;
+  --oui-gradient-warning-start: 220 158 8;
+  --oui-gradient-warning-end: 255 209 70;
 
-  --oui-gradient-neutral-start: 27 29 24;
-  --oui-gradient-neutral-end: 38 41 46;
+  --oui-gradient-neutral-start: 27 15 24;
+  --oui-gradient-neutral-end: 38 28 46;
 
   /* rounded */
-  --oui-rounded-sm: 2px;
-  --oui-rounded: 4px;
-  --oui-rounded-md: 6px;
-  --oui-rounded-lg: 8px;
-  --oui-rounded-xl: 12px;
-  --oui-rounded-2xl: 16px;
+  --oui-rounded-sm: 0px;
+  --oui-rounded: 0px;
+  --oui-rounded-md: 0px;
+  --oui-rounded-lg: 0px;
+  --oui-rounded-xl: 0px;
+  --oui-rounded-2xl: 0px;
   --oui-rounded-full: 9999px;
 
   /* spacing */

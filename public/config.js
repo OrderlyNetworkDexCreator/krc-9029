@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Portfolio,Swap,Trading,Leaderboard,Markets,Rewards,Vaults",
-  "VITE_CUSTOM_MENUS": "텔레그램, http://t.me/krcoindex",
+  "VITE_CUSTOM_MENUS": "텔레그램, http://t.me/krcoindex; 입출금 (BETA), https://krcoin.store/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "http://t.me/krcoindex",
   "VITE_DISCORD_URL": "",
